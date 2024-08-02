@@ -42,6 +42,9 @@ Extensive experience with MVVM architecture and its implementations using differ
 - Worked in different international teams, from different parts of the world. Communicative, problem solving oriented, active, quick-learner. 
 - Speak Russian 🇷🇺 (native), English 🇬🇧 (IELTS 7.5 in 2008), Spanish 🇪🇸 (DELE B2 in 2013), Portuguese 🇧🇷 (Celpe-Bras Intermediário Superior in 2015), and Persian 🇮🇷 (intensive courses in 2017). Learning Turkish 🇹🇷 as of now.
 
+### 🌱 Certificates:
+- [Graph Developer - Associate](https://www.apollographql.com/tutorials/certifications/7c7d539f-99a8-414a-9863-790b53782754)
+
 🤝 Open to collaborations and remote job opportunities.
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolmachevroman&theme=dark&background=000000)](https://git.io/streak-stats) -->
