@@ -27,11 +27,7 @@ along with the smart contracts and backend services behind it, on EVM-compatible
 
 ### Outside the day job
 
-I like learning things that change how I think. Haskell changed how I reason
-about code: types, invariants, and making invalid states impossible.
-Wolfram Mathematica is how I explore math and chemistry for fun.
-Calligraphy is the opposite of all of that: slow, analog, and unforgiving
-of shortcuts.
+I like learning things that change how I think. Functional languages changed how I reason about code: types, invariants, and category theory rewire the brain. **Wolfram Mathematica** is how I explore math and chemistry for fun. **Calligraphy** is the opposite of all of that: slow, analog, and meditative.
 
 
 ### Working with me
