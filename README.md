@@ -24,6 +24,16 @@ along with the smart contracts and backend services behind it, on EVM-compatible
 - **Frontend:** React, Tailwind and Motion, with wallet connection and transaction flows via Ethers.js
 - **Fancy words:** Solidity, Hardhat, Ethers.js, OpenZeppelin, TypeScript, React, Next.js, Tailwind, Motion, Node.js, IPFS
 
+
+### Outside the day job
+
+I like learning things that change how I think. Haskell changed how I reason
+about code: types, invariants, and making invalid states impossible.
+Wolfram Mathematica is how I explore math and chemistry for fun.
+Calligraphy is the opposite of all of that: slow, analog, and unforgiving
+of shortcuts.
+
+
 ### Working with me
 Available for consulting on Android platform and device-management projects.
 Comfortable with English, Spanish, Portuguese and Russian.
