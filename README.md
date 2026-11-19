@@ -24,6 +24,20 @@ along with the smart contracts and backend services behind it, on EVM-compatible
 - **Frontend:** React, Tailwind and Motion, with wallet connection and transaction flows via Ethers.js
 - **Fancy words:** Solidity, Hardhat, Ethers.js, OpenZeppelin, TypeScript, React, Next.js, Tailwind, Motion, Node.js, IPFS
 
+### Rust & on-device ML
+
+I build apps that run language models locally, with no cloud AI involved. 
+
+- **Local inference:** quantized GGUF models on Apple Silicon (Metal) via mistral.rs, with memory-aware loading
+  that I added in my own fork of mistral.rs
+- **Grounded output:** the model picks sentences from the sources, forced into a JSON schema, so it can't invent
+  facts; when free-written cards made up claims, I measured it and redesigned the pipeline
+- **Evaluation:** a 50-molecule review set with snapshot tests and a harness that reports latency and accuracy
+  against product targets
+- **Desktop app:** Tauri 2 with a Rust core and a React + TypeScript UI, an offline SQLite cache, and a
+  resumable model download checked by sha256
+- **Fancy words:** Rust, Tokio, mistral.rs, Candle, GGUF, Qwen3, Metal, constrained decoding, Tauri 2,
+  SQLite (rusqlite), reqwest, insta, React, TypeScript, Vite, 3Dmol.js
 
 ### Outside the day job
 
